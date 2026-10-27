@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+*.pyc
+data/
+mlruns/
+mlflow.db
+artifacts/models/*.keras
